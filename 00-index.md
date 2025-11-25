@@ -3,7 +3,7 @@ title: Etusivu
 permalink: /
 ---
 
-# Tietokantojen perusteet, syksy 2025
+# Databasernas grunder, våren 2026
 
 _Tietokantojen perusteet_ on 5 op laajuinen tietojenkäsittelytieteen perusopintokurssi, joka esittelee suurten tietomäärien käsittelyyn liittyviä tekniikoita ja haasteita. Tutustumme kurssilla relaatiotietokantoihin ja niihin liittyvään SQL-kieleen.
 
