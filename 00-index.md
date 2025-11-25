@@ -7,7 +7,7 @@ permalink: /
 
 _Databasernas grunder_ är en kurs på 5 sp inom grundstudierna i datavetenskap. Kursen ger en introduktion till tekniker och utmaningar gällande hanteringen av stora datamängder. Under kursen bekantar vi oss med relationsdatabaser och det tillhörande SQL-språket.
 
-Syksyllä 2025 kurssi järjestetään samalla tavalla Helsingin yliopiston tutkinto-opiskelijoille ja Avoimen yliopiston opiskelijoille. Ohjeet kurssisuorituksen rekisteröimiseen ilmestyvät kurssin aikana.
+Hösten 2025 ordnas kursen på samma sätt för examensstuderande vid Helsingfors universitet och för studerande vid Öppna universitetet. Anvisningar för hur kursprestationen registreras kommer att publiceras under kursens gång.
 
 [Kysymyksiä ja vastauksia](kysymykset)
 
