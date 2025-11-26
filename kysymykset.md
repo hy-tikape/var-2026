@@ -4,34 +4,34 @@ permalink: /kysymykset/
 hide: true
 ---
     
-# Kysymyksiä ja vastauksia
+# Frågor och svar
 
-**Miten voin ilmoittautua kurssille?**
+**Hur anmäler jag mig till kursen?**
 
-Kurssille ei ilmoittauduta etukäteen vaan vasta kurssin lopussa. Ohjeet ilmoittautumiseen julkaistaan tehtäväjärjestelmässä.
+Kursen har ingen förhandsanmälan, utan man anmäler sig först i slutet av kursen. Anvisningar för anmälan publiceras i uppgiftssystemet.
 
-Kaikki opiskelijat ilmoittautuvat kurssille avoimen yliopiston kautta.
+Alla studerande anmäler sig till kursen via Öppna universitetet.
 
-**Mitä tulee tehdä, jotta saa suorituksen?**
+**Vad krävs för godkänd kursprestation?**
 
-Sinun tulee saada vähintään 60 pistettä kummastakin tehtäväpaketista.
+Kursen består av två uppgiftspaket. Du måste få minst 60 poäng från vartdera uppgiftspaket för att få en godkänd kursprestation. 
 
-**Onko kurssilla tenttiä?**
+**Ingår en tentamen i kursen?**
 
-Kurssilla ei ole tenttiä, vaan suoritus perustuu kokonaan tehtäviin.
+Kursen innehåller ingen tentamen. Kursen bedöms helt och hållet på basis av de lösta uppgifterna.
 
-**Miten kurssin tehtävien ratkaisut tulee tehdä?**
+**Hur ska uppgifterna lösas?**
 
-Sinun tulee ratkaista kurssin tehtävät itsenäisesti. Tehtävien yhteydessä on tarkempia ohjeita siitä, miten voit käyttää tekoälyä apuna.
+Kursuppgifterna bör lösas självständigt. I samband med uppgifterna finns närmare anvisningar om hur du får eventuellt får använda artificiell intelligens som stöd.
 
-**Milloin suoritukset kirjataan?**
+**När registreras kursprestationerna?**
 
-Kurssin suoritukset kirjataan kuukauden kuluessa tehtävien deadlinesta.
+Kursprestationerna registreras inom en månad efter uppgifternas deadline.
 
-**Miten suoritukset näkee?**
+**Var kan man se sin kursprestation?**
 
-Suoritukset kirjataan ensin Helsingin yliopiston rekisteriin (Sisu), josta ne siirtyvät automaattisesti Opintopolkuun.
+Prestationerna registreras först i Helsingfors universitets studieregister (Sisu), varifrån de sedan automatiskt överförs till Min Studieinfo.
 
-**Maksaako kurssin suorittaminen?**
+**Är kursen avgiftsbelagd?**
 
-Kurssin suorittaminen on tällä hetkellä maksutonta kaikille.
+Att avlägga kursen är för tillfället avgiftsfritt för alla.

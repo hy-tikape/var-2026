@@ -7,26 +7,26 @@ permalink: /
 
 _Databasernas grunder_ är en kurs på 5 sp inom grundstudierna i datavetenskap. Kursen ger en introduktion till tekniker och utmaningar gällande hanteringen av stora datamängder. Under kursen bekantar vi oss med relationsdatabaser och det tillhörande SQL-språket.
 
-Hösten 2025 ordnas kursen på samma sätt för examensstuderande vid Helsingfors universitet och för studerande vid Öppna universitetet. Anvisningar för hur kursprestationen registreras kommer att publiceras under kursens gång.
+Våren 2026 ordnas kursen på samma sätt för examensstuderande vid Helsingfors universitet och för studerande vid Öppna universitetet. Anvisningar för hur kursprestationen registreras kommer att publiceras under kursens gång.
 
-[Kysymyksiä ja vastauksia](kysymykset)
+[Frågor och svar](kysymykset)
 
-Kurssin ohjausta on tarjolla [Discordissa](https://study.cs.helsinki.fi/discord/join/tikape), jossa voit keskustella kurssin järjestäjien ja muiden opiskelijoiden kanssa. Lisäksi järjestetään pajaohjausta Exactumin salissa BK107 tiistaisin klo 12–16, keskiviikkoisin klo 14–18 sekä torstaisin klo 12–16.
+Under kursen ordnas handledning via [Discord](https://study.cs.helsinki.fi/discord/join/tikape), där du kan diskutera med kursens assistenter och andra studerande. Handledning ordnas också på plats på campus i Exactum, i sal BK107, på tisdagar klockan 12–16, onsdagar klockan 14–18 och torsdagar klockan 12–16.
 
-## Tehtävät ja arvostelu
+## Uppgifter och bedömning
 
-Kurssin suoritus muodostuu kahdesta tehtäväpaketista (SQL-tehtävät ja projektitehtävät). Molemmissa tehtäväpaketeissa maksimipistemäärä on 100, ja kurssin hyväksytty suoritus vaatii vähintään 60 pistettä kummastakin tehtäväpaketista.
+Kursprestationen består av två uppgiftspaket (SQL-uppgifter och projektuppgifter). Vartdera uppgiftspakets maximalpoäng är 100. För en godkänd kursprestation krävs minst 60 poäng från vartdera uppgiftspaket. 
 
-Arvosanarajat ovat:
+Vitsordsgränserna är:
 
-* 120–136 pistettä: 1
-* 137–154 pistettä: 2
-* 155–171 pistettä: 3
-* 172–189 pistettä: 4
-* 190–200 pistettä: 5
+* 120–136 poäng: 1
+* 137–154 poäng: 2
+* 155–171 poäng: 3
+* 172–189 poäng: 4
+* 190–200 poäng: 5
 
-Kaikilla suorituksilla on yhteinen deadline su 26.10.2025 klo 23:59.
+Deadline för alla kursuppgifter är söndag xx.xx.2026 klockan 23:59.
 
-## Yhteystiedot
+## Kontaktuppgifter
 
-Kurssin luennoija syksyllä 2025 on Antti Laaksonen. Voit ottaa yhteyttä lähettämällä [sähköpostia](mailto:ahslaaks@cs.helsinki.fi) tai viestin Discordissa.
+Kursens föreläsare våren 2026 är Antti Laaksonen, som du når via [e-post](mailto:ahslaaks@cs.helsinki.fi) eller Discord.
