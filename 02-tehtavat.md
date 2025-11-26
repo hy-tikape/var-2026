@@ -1,5 +1,5 @@
 ---
-title: Tehtävät
+title: Uppgifter
 permalink: /tehtavat/
 ---
 

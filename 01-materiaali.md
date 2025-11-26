@@ -1,5 +1,5 @@
 ---
-title: Materiaali
+title: Material
 permalink: /materiaali/
 ---
 
