@@ -3,26 +3,26 @@ title: Tehtävät
 permalink: /tehtavat/
 ---
 
-# Tehtävät
+# Uppgifter
 
-Kurssi suoritetaan ratkomalla tehtäviä. Kaikki tehtävät tulee ratkaista itsenäisesti kurssin materiaalin ja muiden lähteiden avulla.
+Kursen genomförs genom att lösa uppgifter. Alla uppgifter bör lösas självständigt med hjälp av kursmaterialet och andra källor.
 
-Kaikkien kurssin tehtävien deadline on su 26.10.2025 klo 23:59.
+Deadline för alla kursuppgifter är söndag xx.xx.2026 klockan 23:59.
 
-## SQL-tehtävät
+## SQL-uppgifter
 
-Kurssin SQL-tehtävät suoritetaan [SQL Trainer](https://sqltrainer.fi/syksy-2025/) -järjestelmässä, jossa on 100 tehtävää SQL-kielen harjoitteluun. Saat yhden kurssipisteen jokaisesta tehtävästä. Voit lähettää vastauksia uudestaan ilman rajoituksia eikä yritysten määrä vaikuta pisteisiin.
+Kursens uppgifter genomförs i systemet [SQL Trainer](https://sqltrainer.fi/syksy-2025/), som innehåller 100 uppgifter för att öva SQL. Du får en kurspoäng för varje uppgift. Du kan skicka in en lösning så många gånger du vill. Antalet försök påverkar inte dina poäng.
 
-**Huomaa, että syksyn 2025 kurssilla on käytössä SQL Trainerin uusi versio, joka on eri osoitteessa kuin vanha versio!**
+**Observera att vårterminens 2026 kurs använder en ny version av SQL Trainer som finns på en annan webbadress än den gamla versionen!**
 
-Tehtävät 1–20 liittyvät materiaalin lukuun 2, tehtävät 21–40 liittyvät materiaalin lukuun 3 ja tehtävät 41–60 liittyvät materiaalin lukuun 4. Tehtävät 61–100 ovat vaikeampia tehtäviä, joissa yhdistellään kurssilla opittuja tekniikoita.
+Uppgifterna 1–20 hör till kapitel 2 i materialet, uppgifterna 21–40 till kapitel 3 och uppgifterna 41–60 till kapitel 4. Uppgifterna 61–100 är svårare uppgifter som kombinerar kursens olika tekniker.
 
-Sinun tulee ratkaista SQL-tehtävät itsenäisesti. Et saa laatia tai korjata vastauksia tekoälyn avulla.
+SQL-uppgifterna bör lösas självständigt. Du får inte framställa eller korrigera lösningar med hjälp av artificiell intelligens.
 
-## Projektitehtävät
+## Projektuppgifter
 
-Kurssin projektitehtävät ovat saatavilla kurssin [tehtävärepositoriossa](https://github.com/hy-tikape/tehtavat/blob/main/README.md).
+Kursens projektuppgifter hittas i [uppgiftsrepositoriet](https://github.com/hy-tikape/tehtavat/blob/main/README.md).
 
-Sinun tulee ratkaista tehtävät itsenäisesti, mutta saat käyttää haluamallasi tavalla nettilähteitä ja tekoälytyökaluja, kunhan raportoit, mitä olet tehnyt.
+Projektuppgifterna ska lösas självständigt. Det är tillåtet att använda nätkällor och  artificiell intelligens, så länge du redogör för hur du har gått till väga när du löst projektuppgifterna.
 
-Viimeisessä tehtävässä on ohjeet, miten voit ilmoittautua kurssille sekä antaa kurssipalautteen.
+I den sista projektuppgiften finns instruktioner för hur du anmäler dig till kursen och hur du ger kursrespons.
