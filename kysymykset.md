@@ -22,7 +22,7 @@ Kursen innehåller ingen tentamen. Kursen bedöms helt och hållet på basis av 
 
 **Hur ska uppgifterna lösas?**
 
-Kursuppgifterna bör lösas självständigt. I samband med uppgifterna finns närmare anvisningar om hur du får eventuellt får använda artificiell intelligens som stöd.
+Kursuppgifterna bör lösas självständigt. I samband med uppgifterna finns närmare anvisningar om hur du eventuellt får använda artificiell intelligens som stöd.
 
 **När registreras kursprestationerna?**
 
