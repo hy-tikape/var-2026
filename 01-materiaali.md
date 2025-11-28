@@ -14,7 +14,7 @@ En viktig källa för databasanvändare är databasernas dokumentationer, där d
 * [SQLite-dokumentation](https://www.sqlite.org/docs.html)
 * [PostgreSQL-dokumentation](https://www.postgresql.org/docs/)
 
-Om du senare vill lära dig mer om design av system som använder databaser, så är ett exempel på en bra bok:
+Nedan är ett exempel på en bra bok för den som vill lära sig mer om design av system som använder databaser:
 
 * Martin Kleppmann:
 _Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems_
