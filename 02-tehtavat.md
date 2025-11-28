@@ -11,7 +11,7 @@ Deadline för alla kursuppgifter är söndag xx.xx.2026 klockan 23:59.
 
 ## SQL-uppgifter
 
-Kursens uppgifter genomförs i systemet [SQL Trainer](https://sqltrainer.fi/syksy-2025/), som innehåller 100 uppgifter för att öva SQL. Du får en kurspoäng för varje uppgift. Du kan skicka in en lösning så många gånger du vill. Antalet försök påverkar inte dina poäng.
+Kursens uppgifter genomförs i systemet [SQL Trainer](https://sqltrainer.fi/syksy-2025/) som innehåller 100 uppgifter för att öva SQL. Du får en kurspoäng för varje uppgift. Du kan skicka in en lösning så många gånger du vill. Antalet försök påverkar inte dina poäng.
 
 **Observera att vårterminens 2026 kurs använder en ny version av SQL Trainer som finns på en annan webbadress än den gamla versionen!**
 
