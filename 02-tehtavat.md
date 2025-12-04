@@ -15,7 +15,7 @@ Kursens uppgifter genomförs i systemet [SQL Trainer](https://sqltrainer.fi/syks
 
 **Observera att vårterminens 2026 kurs använder en ny version av SQL Trainer som finns på en annan webbadress än den gamla versionen!**
 
-Uppgifterna 1–20 hör till kapitel 2 i materialet, uppgifterna 21–40 till kapitel 3 och uppgifterna 41–60 till kapitel 4. Uppgifterna 61–100 är svårare uppgifter som kombinerar kursens olika tekniker.
+Uppgifterna 1–20 hör till kapitel 2 i materialet, uppgifterna 21–40 till kapitel 3 och uppgifterna 41–60 till kapitel 4. Uppgifterna 61–100 är mer avancerade uppgifter som kombinerar kursens olika tekniker.
 
 SQL-uppgifterna bör lösas självständigt. Du får inte framställa eller korrigera lösningar med hjälp av artificiell intelligens.
 
