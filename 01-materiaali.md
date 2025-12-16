@@ -7,7 +7,7 @@ permalink: /materiaali/
 
 På denna sida hittar du kursens nätmaterial. Du kan också se [allt material](../kaikki) på samma sida.
 
-Materialet är framställt av Antti Laaksonen. Om du upptäcker fel i materialet kan du skicka en korrigering direkt till [GitHub](https://github.com/hy-tikape/syksy-2025).
+Materialet är framställt av Antti Laaksonen. Om du upptäcker fel i materialet kan du skicka en korrigering direkt till [GitHub](https://github.com/hy-tikape/var-2026).
 
 En viktig källa för databasanvändare är databasernas dokumentationer, där databasernas egenskaper utförligt beskrivs:
 

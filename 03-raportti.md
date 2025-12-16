@@ -1,6 +1,7 @@
 ---
 title: Loppuraportti
 permalink: /raportti/
+hide: true
 ---
 
 # Loppuraportti

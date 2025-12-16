@@ -11,7 +11,7 @@ Våren 2026 ordnas kursen på samma sätt för examensstuderande vid Helsingfors
 
 [Frågor och svar](kysymykset)
 
-Under kursen ordnas handledning online via [Discord](https://study.cs.helsinki.fi/discord/join/tikape), där du kan diskutera med kursens assistenter och andra studerande. Handledning ordnas också på plats på campus i Exactum, i sal BK107, på tisdagar klockan 12–16, onsdagar klockan 14–18 och torsdagar klockan 12–16.
+Under kursen ordnas handledning online via [Discord](https://study.cs.helsinki.fi/discord/join/tikape), där du kan diskutera med kursens assistenter och andra studerande.
 
 ## Uppgifter och bedömning
 
@@ -25,7 +25,7 @@ Vitsordsgränserna är:
 * 172–189 poäng: 4
 * 190–200 poäng: 5
 
-Deadline för alla kursuppgifter är söndag xx.xx.2026 klockan 23:59.
+Deadline för alla kursuppgifter är söndag 8.3.2026 klockan 23:59.
 
 ## Kontaktuppgifter
 
