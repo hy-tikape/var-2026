@@ -11,7 +11,7 @@ Våren 2026 ordnas kursen på samma sätt för examensstuderande vid Helsingfors
 
 [Frågor och svar](kysymykset)
 
-Under kursen ordnas handledning online via [Discord](https://study.cs.helsinki.fi/discord/join/tikape), där du kan diskutera med kursens assistenter och andra studerande.
+Under kursen ordnas handledning online via [Discord](https://study.cs.helsinki.fi/discord/join/tikape), där du kan diskutera med kursens assistenter och andra studerande. Dessutom ordnas handledning i salen BK107 i Exactum på onsdagar kl. 12–16 samt på fredagar kl. 12–16.
 
 ## Uppgifter och bedömning
 
