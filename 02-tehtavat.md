@@ -17,13 +17,8 @@ Uppgifterna 1–20 hör till kapitel 2 i materialet, uppgifterna 21–40 till ka
 
 ## Projektuppgifter
 
-Projektuppgifterna publiceras senast i slutet av januari.
-
-<!--
-Kursens projektuppgifter hittas i [uppgiftsrepositoriet](https://github.com/hy-tikape/tehtavat/blob/main/README.md).
-
+Kursens projektuppgifter hittas [här](../projekti/).
 
 Projektuppgifterna ska lösas självständigt. I projektuppgifterna är det tillåtet att använda nätkällor och  artificiell intelligens, så länge du redogör för hur du har gått till väga i dina lösningar.
 
 I den sista projektuppgiften finns instruktioner för hur du anmäler dig till kursen och hur du ger kursrespons.
--->
