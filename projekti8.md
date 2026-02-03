@@ -16,7 +16,7 @@ För att få en godkänd kursprestation krävs att du anmäler dig till kursen s
 
 ## Kursrespons
 
-Ge kursrespons via [Norppa](https://coursefeedback.helsinki.fi/targets/95199759).
+Ge kursrespons via [Norppa](https://coursefeedback.helsinki.fi/targets/95200219).
 
 Responsen är anonym. En sammanfattning av responsen publiceras på kursens webbplats. Kursresponsen ska ges senast 9.3.2026.
 
